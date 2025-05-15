@@ -7,7 +7,7 @@ await tp.file.rename(title)
 -%>
 ---
 title: note
-draft: false
+draft: true
 tags: 
 - 
 ---
