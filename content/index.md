@@ -1,6 +1,8 @@
 ---
-title: Welcome to my Public Book of Knowledge
+title: Welcome to Public Book of Knowledge for expats in Poland
 ---
 
-Тут можно найти архив полезных статей/постов для жизни в Польше.
+
+> [!info]
+> Тут можно найти архив полезных статей/постов для жизни в Польше.
 
